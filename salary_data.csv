@@ -1,0 +1,4 @@
+EmployeeID,Age,Gender,Education,Experience,Department,Salary
+1,25,Male,Bachelors,2,IT,30000
+2,30,Female,Masters,5,HR,50000
+3,35,Male,PhD,10,Finance,80000
