@@ -1,0 +1,501 @@
+Airline,Source,Destination,Total_Stops,Duration_Hours,Days_Left,Price
+SpiceJet,Chennai,Ahmedabad,2,3,50,9030
+SpiceJet,Delhi,Ahmedabad,0,1,22,3838
+IndiGo,Mumbai,Jaipur,2,5,22,10319
+IndiGo,Kolkata,Hyderabad,1,4,59,8649
+Air India,Chennai,Ahmedabad,2,6,51,10469
+SpiceJet,Delhi,Hyderabad,0,8,27,8673
+Air India,Bangalore,Goa,0,1,48,4035
+Vistara,Kolkata,Hyderabad,1,2,18,7108
+IndiGo,Kolkata,Hyderabad,0,6,15,9459
+Air India,Mumbai,Pune,1,1,50,3990
+IndiGo,Chennai,Pune,0,3,57,6566
+IndiGo,Bangalore,Hyderabad,2,9,29,13656
+SpiceJet,Bangalore,Pune,2,9,38,13542
+Air India,Chennai,Pune,2,1,60,8644
+Air India,Chennai,Goa,0,2,34,4714
+Air India,Chennai,Jaipur,1,10,15,14372
+Go First,Kolkata,Ahmedabad,1,9,43,10746
+Vistara,Delhi,Jaipur,0,2,53,7022
+IndiGo,Delhi,Hyderabad,0,1,34,4987
+Vistara,Chennai,Jaipur,2,8,23,12006
+Go First,Delhi,Pune,2,4,47,9386
+Go First,Mumbai,Ahmedabad,0,2,40,4506
+Air India,Mumbai,Jaipur,0,1,32,3077
+Air India,Delhi,Jaipur,1,6,37,10386
+Go First,Delhi,Ahmedabad,2,8,11,13167
+SpiceJet,Delhi,Hyderabad,2,1,46,8470
+IndiGo,Kolkata,Ahmedabad,2,5,6,10509
+Vistara,Kolkata,Hyderabad,0,2,51,4457
+Go First,Chennai,Jaipur,0,1,51,2602
+IndiGo,Delhi,Hyderabad,2,2,55,7887
+Air India,Chennai,Hyderabad,1,10,10,14849
+SpiceJet,Bangalore,Hyderabad,0,9,32,10571
+SpiceJet,Delhi,Hyderabad,2,6,23,13068
+Go First,Mumbai,Pune,2,8,31,14511
+IndiGo,Chennai,Pune,1,6,22,11774
+Air India,Bangalore,Goa,0,10,22,11954
+SpiceJet,Bangalore,Jaipur,0,3,57,7414
+Go First,Chennai,Hyderabad,2,4,35,9877
+Air India,Delhi,Jaipur,0,5,37,9245
+Go First,Mumbai,Jaipur,1,7,25,9525
+Vistara,Delhi,Ahmedabad,2,10,25,15355
+Vistara,Kolkata,Goa,2,7,59,11187
+Go First,Mumbai,Pune,2,1,44,8296
+Go First,Delhi,Hyderabad,0,2,19,4342
+Vistara,Mumbai,Hyderabad,0,4,5,6993
+Go First,Delhi,Pune,2,9,5,13801
+Vistara,Bangalore,Goa,2,2,26,9837
+IndiGo,Chennai,Goa,0,10,26,13250
+Vistara,Delhi,Jaipur,2,8,26,12552
+Air India,Mumbai,Ahmedabad,1,7,54,12395
+Air India,Chennai,Hyderabad,1,3,33,5853
+IndiGo,Mumbai,Hyderabad,1,3,46,9216
+Vistara,Delhi,Ahmedabad,1,6,53,10257
+Air India,Chennai,Goa,2,10,57,13992
+SpiceJet,Kolkata,Goa,2,10,14,14975
+Go First,Kolkata,Pune,2,5,20,9299
+Go First,Kolkata,Hyderabad,1,5,22,9565
+Go First,Chennai,Jaipur,2,8,26,11249
+Vistara,Delhi,Hyderabad,2,1,25,8426
+Vistara,Kolkata,Pune,0,5,3,8418
+SpiceJet,Chennai,Jaipur,2,5,32,9922
+Vistara,Bangalore,Ahmedabad,0,5,25,8565
+SpiceJet,Kolkata,Ahmedabad,0,10,22,12105
+Vistara,Bangalore,Jaipur,1,3,41,6307
+IndiGo,Mumbai,Hyderabad,0,4,17,7397
+Vistara,Kolkata,Jaipur,0,9,14,11164
+Go First,Bangalore,Ahmedabad,1,5,60,7237
+IndiGo,Kolkata,Goa,1,1,13,4997
+SpiceJet,Kolkata,Jaipur,0,4,50,7367
+Go First,Delhi,Goa,0,7,4,10861
+Air India,Kolkata,Jaipur,2,6,17,9862
+SpiceJet,Mumbai,Hyderabad,0,8,37,11422
+Air India,Bangalore,Jaipur,1,3,40,6177
+Go First,Mumbai,Pune,1,10,4,11571
+Vistara,Mumbai,Goa,1,3,4,5927
+Go First,Kolkata,Ahmedabad,1,2,38,8053
+Air India,Mumbai,Ahmedabad,2,10,22,15447
+Air India,Kolkata,Goa,1,8,30,9722
+Air India,Chennai,Jaipur,1,4,43,6877
+SpiceJet,Kolkata,Hyderabad,1,2,43,7235
+Vistara,Mumbai,Hyderabad,0,6,54,9471
+IndiGo,Mumbai,Pune,2,2,3,6819
+IndiGo,Bangalore,Pune,0,3,43,5772
+SpiceJet,Chennai,Goa,1,8,19,12804
+SpiceJet,Mumbai,Hyderabad,0,8,24,9937
+Air India,Bangalore,Goa,2,6,56,10443
+SpiceJet,Chennai,Goa,2,8,29,13654
+IndiGo,Delhi,Pune,0,6,27,9760
+IndiGo,Bangalore,Pune,2,10,55,14512
+IndiGo,Kolkata,Goa,0,5,9,9398
+Go First,Mumbai,Jaipur,2,7,20,13711
+IndiGo,Chennai,Pune,2,9,19,11801
+Vistara,Mumbai,Hyderabad,0,3,41,5339
+Air India,Mumbai,Pune,0,1,3,3673
+Go First,Bangalore,Goa,0,3,23,6015
+IndiGo,Mumbai,Ahmedabad,2,7,32,10457
+Air India,Mumbai,Jaipur,0,3,8,5348
+IndiGo,Kolkata,Jaipur,1,5,6,8475
+SpiceJet,Kolkata,Pune,2,9,56,14353
+SpiceJet,Chennai,Jaipur,1,6,27,10964
+Vistara,Chennai,Pune,1,9,15,11855
+Air India,Kolkata,Pune,0,5,21,7545
+Vistara,Bangalore,Goa,2,6,2,10527
+Vistara,Bangalore,Hyderabad,0,6,36,7178
+IndiGo,Delhi,Ahmedabad,0,2,17,6305
+IndiGo,Mumbai,Hyderabad,0,5,34,6258
+Vistara,Mumbai,Ahmedabad,0,1,25,3758
+Vistara,Chennai,Ahmedabad,2,10,38,13716
+Go First,Chennai,Jaipur,1,5,36,10201
+Vistara,Mumbai,Goa,1,7,31,10358
+Go First,Delhi,Jaipur,1,1,29,4051
+Vistara,Delhi,Goa,1,10,24,12119
+Go First,Delhi,Jaipur,2,2,5,7059
+Air India,Mumbai,Pune,1,10,8,13744
+Air India,Mumbai,Goa,0,4,44,5957
+SpiceJet,Kolkata,Pune,1,7,14,12322
+Vistara,Chennai,Goa,1,5,26,9146
+Vistara,Mumbai,Pune,0,3,57,6606
+Vistara,Bangalore,Ahmedabad,1,9,13,11866
+IndiGo,Mumbai,Jaipur,2,7,44,12061
+SpiceJet,Chennai,Goa,0,8,36,9577
+Vistara,Bangalore,Jaipur,2,8,16,14095
+SpiceJet,Chennai,Ahmedabad,1,4,39,9326
+Go First,Kolkata,Ahmedabad,1,8,58,11369
+SpiceJet,Chennai,Ahmedabad,1,5,12,7455
+IndiGo,Mumbai,Jaipur,0,6,34,7639
+Go First,Bangalore,Pune,1,6,54,10069
+Vistara,Delhi,Jaipur,0,2,20,7037
+Air India,Bangalore,Hyderabad,2,10,52,12913
+SpiceJet,Chennai,Goa,2,8,8,10980
+Go First,Mumbai,Pune,1,1,4,7671
+IndiGo,Delhi,Goa,2,7,6,13550
+Go First,Bangalore,Ahmedabad,0,3,49,7462
+IndiGo,Mumbai,Hyderabad,2,3,60,10590
+IndiGo,Chennai,Ahmedabad,1,8,25,9421
+SpiceJet,Bangalore,Goa,0,4,40,5214
+Go First,Mumbai,Jaipur,2,4,2,10119
+Go First,Delhi,Ahmedabad,0,4,51,5041
+Go First,Chennai,Jaipur,1,2,24,6837
+IndiGo,Chennai,Jaipur,2,2,45,6725
+Go First,Kolkata,Ahmedabad,0,5,30,7080
+IndiGo,Chennai,Jaipur,0,7,52,7781
+Air India,Chennai,Jaipur,1,8,24,11650
+IndiGo,Delhi,Hyderabad,2,3,41,10750
+Go First,Chennai,Hyderabad,2,2,11,6954
+Go First,Bangalore,Ahmedabad,1,6,57,8988
+IndiGo,Mumbai,Goa,2,3,52,9407
+IndiGo,Mumbai,Ahmedabad,2,2,39,8765
+Go First,Bangalore,Ahmedabad,1,9,43,11593
+Go First,Bangalore,Pune,2,5,29,9023
+SpiceJet,Kolkata,Jaipur,0,4,49,7895
+Go First,Mumbai,Pune,0,2,52,3134
+SpiceJet,Kolkata,Goa,1,3,45,8606
+Vistara,Delhi,Jaipur,0,4,57,7796
+Go First,Chennai,Jaipur,1,10,49,12876
+IndiGo,Bangalore,Hyderabad,0,7,2,9703
+IndiGo,Mumbai,Goa,2,6,35,12628
+Go First,Bangalore,Pune,2,2,60,6461
+Vistara,Delhi,Pune,2,8,17,12766
+IndiGo,Mumbai,Pune,2,3,18,7231
+Air India,Chennai,Pune,0,3,5,6506
+Air India,Bangalore,Ahmedabad,1,10,58,11216
+Vistara,Chennai,Pune,2,4,24,8686
+SpiceJet,Chennai,Hyderabad,0,10,11,12889
+IndiGo,Bangalore,Pune,1,4,5,9971
+Air India,Bangalore,Hyderabad,2,3,2,9818
+SpiceJet,Mumbai,Goa,1,6,43,8984
+IndiGo,Mumbai,Goa,2,9,5,12810
+Air India,Mumbai,Jaipur,0,6,59,7084
+Go First,Kolkata,Jaipur,2,9,35,15110
+Air India,Chennai,Pune,1,10,38,12737
+IndiGo,Chennai,Goa,0,6,28,9276
+Vistara,Bangalore,Hyderabad,2,10,51,13413
+IndiGo,Delhi,Jaipur,2,10,51,14215
+Vistara,Kolkata,Hyderabad,0,4,21,5129
+SpiceJet,Chennai,Goa,1,5,4,7161
+Go First,Mumbai,Ahmedabad,2,3,10,7096
+Vistara,Delhi,Ahmedabad,1,8,45,11991
+Air India,Delhi,Pune,0,6,42,7725
+IndiGo,Mumbai,Hyderabad,0,1,35,4254
+Vistara,Kolkata,Ahmedabad,1,9,31,11119
+SpiceJet,Bangalore,Goa,0,3,5,5779
+SpiceJet,Delhi,Ahmedabad,2,3,28,7351
+Go First,Kolkata,Jaipur,2,8,55,13059
+Air India,Mumbai,Hyderabad,2,9,32,15466
+Go First,Bangalore,Ahmedabad,0,1,57,3524
+Air India,Chennai,Goa,0,5,40,8036
+Vistara,Mumbai,Ahmedabad,0,5,32,8946
+Go First,Bangalore,Pune,0,4,16,7521
+SpiceJet,Mumbai,Goa,0,3,39,4911
+IndiGo,Chennai,Ahmedabad,2,7,54,10932
+IndiGo,Chennai,Pune,0,3,48,7885
+Air India,Chennai,Goa,1,8,25,10962
+SpiceJet,Chennai,Jaipur,2,4,32,11185
+Air India,Bangalore,Pune,1,1,15,5877
+Go First,Delhi,Ahmedabad,1,4,38,7064
+IndiGo,Bangalore,Goa,2,2,7,8217
+IndiGo,Kolkata,Hyderabad,0,1,4,4614
+Vistara,Chennai,Hyderabad,2,2,11,7681
+Go First,Chennai,Goa,2,6,1,12871
+Air India,Bangalore,Pune,1,10,52,11330
+IndiGo,Chennai,Goa,0,9,38,12044
+Go First,Delhi,Ahmedabad,2,3,4,6941
+Go First,Delhi,Pune,0,3,19,4432
+Air India,Mumbai,Hyderabad,1,7,43,11891
+Vistara,Chennai,Ahmedabad,2,6,42,9930
+Vistara,Kolkata,Goa,1,7,24,9684
+Air India,Delhi,Hyderabad,0,7,8,7285
+Go First,Chennai,Pune,2,10,19,14173
+Air India,Kolkata,Jaipur,2,8,27,13892
+Go First,Delhi,Jaipur,1,9,54,13848
+Air India,Mumbai,Goa,0,2,48,5423
+Air India,Delhi,Ahmedabad,1,5,44,7917
+Air India,Delhi,Jaipur,1,2,56,6029
+Go First,Kolkata,Jaipur,0,8,58,8300
+SpiceJet,Chennai,Ahmedabad,0,5,16,6095
+IndiGo,Chennai,Hyderabad,0,6,58,6903
+SpiceJet,Bangalore,Ahmedabad,1,3,58,6804
+Air India,Chennai,Ahmedabad,0,8,17,11725
+Air India,Chennai,Ahmedabad,0,4,20,5368
+IndiGo,Chennai,Pune,2,6,6,12103
+Air India,Mumbai,Hyderabad,1,9,55,12511
+Vistara,Chennai,Ahmedabad,0,10,51,10779
+IndiGo,Mumbai,Jaipur,0,2,31,5641
+Vistara,Delhi,Goa,2,7,47,12642
+SpiceJet,Chennai,Ahmedabad,0,3,11,5941
+Go First,Bangalore,Hyderabad,1,2,19,5970
+SpiceJet,Mumbai,Pune,2,7,12,10171
+IndiGo,Chennai,Ahmedabad,2,6,11,10667
+SpiceJet,Mumbai,Goa,0,6,14,6815
+SpiceJet,Mumbai,Goa,1,4,52,6583
+Vistara,Delhi,Ahmedabad,1,5,34,7491
+SpiceJet,Mumbai,Goa,0,1,18,4722
+Go First,Chennai,Hyderabad,1,10,11,11349
+IndiGo,Kolkata,Hyderabad,1,10,2,14483
+IndiGo,Delhi,Goa,1,3,18,6469
+Go First,Bangalore,Hyderabad,0,9,43,9434
+Go First,Kolkata,Pune,0,1,5,2617
+Vistara,Chennai,Goa,0,8,58,9942
+Go First,Bangalore,Pune,0,1,12,4265
+SpiceJet,Bangalore,Ahmedabad,2,6,60,9396
+Vistara,Kolkata,Ahmedabad,2,10,18,15157
+Vistara,Mumbai,Goa,1,7,30,12031
+Go First,Delhi,Jaipur,1,5,54,7081
+IndiGo,Delhi,Ahmedabad,0,10,20,12807
+IndiGo,Delhi,Ahmedabad,0,4,30,8199
+Vistara,Delhi,Jaipur,1,3,57,6309
+SpiceJet,Kolkata,Jaipur,0,3,26,6107
+Go First,Bangalore,Ahmedabad,0,8,59,9114
+Go First,Bangalore,Pune,1,2,47,6350
+Air India,Chennai,Hyderabad,2,2,45,8665
+Air India,Bangalore,Ahmedabad,0,2,30,5840
+Go First,Bangalore,Ahmedabad,2,10,18,15972
+Go First,Bangalore,Hyderabad,2,6,37,10013
+IndiGo,Mumbai,Pune,2,9,5,14114
+IndiGo,Kolkata,Pune,1,10,20,13673
+Air India,Delhi,Goa,1,4,53,8641
+Vistara,Kolkata,Jaipur,0,9,4,10109
+Go First,Bangalore,Goa,0,1,29,5505
+Go First,Kolkata,Pune,1,7,45,9751
+Go First,Kolkata,Pune,1,7,34,11695
+IndiGo,Mumbai,Goa,2,7,27,13205
+IndiGo,Chennai,Pune,0,1,1,3298
+Air India,Bangalore,Pune,0,9,11,9293
+Vistara,Bangalore,Goa,0,6,51,8955
+Vistara,Kolkata,Ahmedabad,2,9,36,15215
+Vistara,Kolkata,Pune,0,9,43,9253
+Go First,Kolkata,Goa,0,2,38,3831
+SpiceJet,Chennai,Jaipur,1,2,58,6671
+IndiGo,Chennai,Pune,0,3,26,7545
+IndiGo,Bangalore,Pune,1,9,48,12478
+SpiceJet,Chennai,Hyderabad,1,5,34,10302
+Go First,Bangalore,Jaipur,0,8,34,9968
+SpiceJet,Kolkata,Jaipur,2,4,14,10228
+Air India,Kolkata,Ahmedabad,1,2,5,8159
+SpiceJet,Mumbai,Ahmedabad,0,8,32,10301
+SpiceJet,Mumbai,Hyderabad,0,1,15,5287
+IndiGo,Chennai,Ahmedabad,0,7,48,10594
+Vistara,Bangalore,Pune,0,4,23,6148
+SpiceJet,Delhi,Hyderabad,0,5,24,8343
+Vistara,Mumbai,Pune,0,4,7,8428
+Go First,Mumbai,Goa,1,10,58,13777
+Vistara,Mumbai,Goa,2,9,28,12483
+SpiceJet,Delhi,Ahmedabad,1,10,15,11542
+Vistara,Mumbai,Pune,2,10,23,15838
+SpiceJet,Bangalore,Jaipur,2,1,39,5403
+SpiceJet,Mumbai,Hyderabad,0,9,27,11622
+IndiGo,Chennai,Pune,1,3,59,9148
+Go First,Chennai,Goa,1,2,47,5643
+IndiGo,Bangalore,Hyderabad,2,1,7,7333
+Air India,Delhi,Jaipur,0,5,58,6057
+Vistara,Kolkata,Jaipur,1,10,41,14785
+Vistara,Mumbai,Jaipur,1,8,28,10869
+SpiceJet,Delhi,Ahmedabad,2,10,5,13220
+Go First,Kolkata,Pune,2,9,7,13880
+Air India,Mumbai,Ahmedabad,2,6,6,12963
+Air India,Bangalore,Jaipur,2,6,47,11570
+SpiceJet,Delhi,Hyderabad,0,9,53,9871
+Go First,Bangalore,Goa,2,2,53,7728
+Air India,Delhi,Pune,1,10,45,13343
+Go First,Chennai,Goa,1,8,29,11422
+Air India,Kolkata,Jaipur,1,2,18,8371
+Go First,Delhi,Pune,0,1,39,5273
+SpiceJet,Chennai,Hyderabad,0,9,49,9693
+Go First,Mumbai,Pune,0,3,1,5457
+SpiceJet,Kolkata,Goa,1,6,10,9731
+Go First,Delhi,Goa,2,4,57,11166
+Go First,Mumbai,Pune,0,4,57,6124
+Vistara,Chennai,Jaipur,1,7,10,12112
+Vistara,Chennai,Hyderabad,1,6,12,10654
+Go First,Kolkata,Ahmedabad,1,10,53,14488
+Vistara,Chennai,Goa,0,5,1,7289
+Air India,Mumbai,Ahmedabad,0,5,12,6055
+Air India,Kolkata,Pune,0,3,60,6564
+Air India,Delhi,Jaipur,0,2,11,4171
+Go First,Chennai,Jaipur,0,7,45,8973
+Air India,Bangalore,Pune,1,2,44,7098
+Go First,Mumbai,Pune,0,8,53,10688
+IndiGo,Kolkata,Jaipur,2,5,42,10296
+Vistara,Mumbai,Jaipur,1,6,30,11741
+Go First,Mumbai,Jaipur,0,8,21,10828
+SpiceJet,Chennai,Pune,1,4,19,9152
+IndiGo,Delhi,Goa,0,1,60,5329
+Go First,Chennai,Ahmedabad,2,3,50,9173
+Go First,Mumbai,Jaipur,0,7,51,7878
+Air India,Kolkata,Jaipur,1,3,46,7329
+IndiGo,Bangalore,Goa,0,6,7,6836
+Vistara,Bangalore,Jaipur,2,2,34,6886
+IndiGo,Delhi,Hyderabad,1,8,14,9551
+Vistara,Bangalore,Jaipur,1,4,41,8542
+SpiceJet,Mumbai,Pune,1,8,47,12072
+Vistara,Delhi,Hyderabad,0,9,48,12075
+SpiceJet,Chennai,Pune,2,5,43,10467
+Air India,Bangalore,Jaipur,2,6,38,12982
+IndiGo,Delhi,Hyderabad,0,3,12,7499
+IndiGo,Kolkata,Pune,0,2,10,4244
+SpiceJet,Chennai,Goa,2,2,25,6743
+SpiceJet,Bangalore,Hyderabad,2,8,39,14510
+SpiceJet,Chennai,Hyderabad,1,5,35,7953
+Vistara,Kolkata,Ahmedabad,2,6,57,13043
+SpiceJet,Bangalore,Pune,2,10,37,13373
+Vistara,Chennai,Pune,0,2,6,5410
+Go First,Mumbai,Ahmedabad,1,8,32,12857
+Vistara,Bangalore,Jaipur,2,10,52,13542
+Vistara,Kolkata,Pune,2,6,49,12562
+Air India,Delhi,Goa,2,1,20,8057
+Go First,Kolkata,Jaipur,2,9,2,12852
+SpiceJet,Bangalore,Pune,1,8,1,12233
+Air India,Chennai,Ahmedabad,2,1,10,7333
+Air India,Mumbai,Pune,1,1,48,5933
+SpiceJet,Chennai,Goa,1,8,8,11067
+SpiceJet,Delhi,Pune,2,5,51,11391
+IndiGo,Kolkata,Pune,1,9,32,13897
+IndiGo,Delhi,Ahmedabad,1,2,29,4822
+Go First,Delhi,Jaipur,1,1,17,4228
+Vistara,Delhi,Hyderabad,1,3,32,6281
+SpiceJet,Chennai,Ahmedabad,0,6,57,9405
+Vistara,Kolkata,Pune,2,6,46,11973
+IndiGo,Kolkata,Ahmedabad,0,3,45,5280
+Air India,Kolkata,Ahmedabad,1,8,22,12407
+Go First,Chennai,Jaipur,1,5,58,9730
+IndiGo,Mumbai,Pune,1,5,54,10298
+Air India,Chennai,Pune,2,8,35,11126
+IndiGo,Delhi,Pune,1,10,48,13511
+Go First,Chennai,Pune,2,4,40,10926
+Vistara,Bangalore,Hyderabad,2,7,10,10212
+Air India,Mumbai,Hyderabad,0,4,37,6957
+IndiGo,Mumbai,Jaipur,2,1,40,6642
+IndiGo,Delhi,Goa,0,7,59,11083
+Vistara,Mumbai,Pune,1,1,37,5084
+IndiGo,Mumbai,Ahmedabad,2,8,25,13541
+Air India,Mumbai,Ahmedabad,0,9,27,10461
+SpiceJet,Mumbai,Pune,1,9,10,13908
+Vistara,Mumbai,Hyderabad,1,8,50,11224
+IndiGo,Kolkata,Ahmedabad,2,6,16,12100
+Go First,Mumbai,Goa,2,4,8,9129
+IndiGo,Bangalore,Pune,2,1,47,7024
+Vistara,Mumbai,Goa,1,6,1,9923
+SpiceJet,Chennai,Hyderabad,1,6,16,8232
+Go First,Kolkata,Ahmedabad,1,3,2,7907
+SpiceJet,Delhi,Pune,1,1,41,3823
+Vistara,Bangalore,Ahmedabad,2,1,15,6200
+SpiceJet,Chennai,Goa,2,6,12,12406
+Go First,Chennai,Goa,0,5,10,5672
+IndiGo,Kolkata,Goa,1,5,15,7571
+Go First,Kolkata,Jaipur,2,6,16,10404
+SpiceJet,Mumbai,Pune,0,8,32,10383
+SpiceJet,Bangalore,Goa,1,6,24,9624
+IndiGo,Kolkata,Jaipur,1,8,56,12863
+Vistara,Chennai,Pune,2,10,19,13328
+Go First,Bangalore,Ahmedabad,0,7,24,7976
+SpiceJet,Bangalore,Goa,0,1,15,4351
+IndiGo,Bangalore,Goa,1,3,42,6576
+Vistara,Kolkata,Hyderabad,2,3,41,7225
+Air India,Kolkata,Jaipur,2,6,8,12437
+Vistara,Delhi,Pune,0,6,37,8224
+IndiGo,Mumbai,Jaipur,1,4,7,8028
+Air India,Chennai,Goa,1,10,23,14671
+Vistara,Kolkata,Ahmedabad,1,7,14,8827
+Vistara,Chennai,Goa,1,5,12,8036
+SpiceJet,Chennai,Goa,2,7,56,11373
+Vistara,Delhi,Goa,0,1,21,3092
+IndiGo,Mumbai,Jaipur,2,4,43,9824
+Vistara,Delhi,Goa,0,1,37,4791
+Air India,Delhi,Goa,1,6,55,11010
+Vistara,Delhi,Jaipur,0,8,28,10686
+Vistara,Bangalore,Hyderabad,1,4,56,9770
+Go First,Mumbai,Ahmedabad,2,2,51,7508
+SpiceJet,Kolkata,Goa,0,10,26,10971
+Vistara,Delhi,Hyderabad,2,4,35,9913
+Air India,Mumbai,Goa,1,1,8,6351
+Air India,Mumbai,Ahmedabad,0,6,16,8599
+SpiceJet,Mumbai,Jaipur,1,6,58,11157
+SpiceJet,Delhi,Goa,2,8,41,12255
+IndiGo,Chennai,Pune,0,5,46,9297
+IndiGo,Kolkata,Hyderabad,0,9,35,9744
+Vistara,Bangalore,Jaipur,2,10,17,14016
+Go First,Mumbai,Jaipur,2,5,37,9215
+IndiGo,Bangalore,Hyderabad,0,2,20,3298
+SpiceJet,Delhi,Jaipur,1,6,12,10603
+IndiGo,Delhi,Ahmedabad,1,8,56,12126
+Go First,Chennai,Jaipur,0,3,9,6202
+Vistara,Kolkata,Jaipur,1,4,29,6736
+Vistara,Delhi,Jaipur,0,6,3,6471
+Air India,Kolkata,Goa,2,10,46,13467
+Go First,Delhi,Goa,0,8,10,9783
+Vistara,Mumbai,Ahmedabad,2,6,19,11551
+IndiGo,Delhi,Jaipur,0,2,50,4018
+Vistara,Chennai,Hyderabad,1,8,19,11099
+Air India,Chennai,Goa,2,4,23,8999
+Air India,Chennai,Ahmedabad,1,2,35,6528
+IndiGo,Chennai,Ahmedabad,1,4,50,8272
+Air India,Chennai,Goa,0,5,52,9091
+SpiceJet,Kolkata,Jaipur,0,7,45,8759
+Go First,Chennai,Jaipur,0,8,50,11453
+Vistara,Bangalore,Pune,1,9,40,11447
+Vistara,Kolkata,Goa,1,7,47,11731
+Air India,Bangalore,Hyderabad,2,9,14,11745
+SpiceJet,Kolkata,Ahmedabad,1,6,48,10819
+IndiGo,Delhi,Pune,2,5,51,9213
+Go First,Delhi,Ahmedabad,1,2,30,6949
+SpiceJet,Bangalore,Pune,0,7,2,10314
+Air India,Delhi,Ahmedabad,2,5,7,9800
+SpiceJet,Delhi,Jaipur,1,8,34,10172
+Air India,Bangalore,Goa,1,10,35,13540
+Air India,Mumbai,Jaipur,0,1,52,3264
+IndiGo,Delhi,Jaipur,0,4,21,5770
+Go First,Kolkata,Ahmedabad,1,8,54,10526
+Go First,Kolkata,Pune,1,4,6,9612
+Vistara,Mumbai,Ahmedabad,0,4,12,7291
+IndiGo,Delhi,Hyderabad,2,4,60,11551
+Air India,Bangalore,Ahmedabad,1,1,1,7216
+Go First,Delhi,Pune,2,8,44,11684
+SpiceJet,Chennai,Pune,2,8,38,14235
+SpiceJet,Chennai,Hyderabad,0,3,58,4743
+Vistara,Chennai,Pune,0,9,57,10652
+SpiceJet,Bangalore,Goa,2,6,32,11859
+SpiceJet,Mumbai,Hyderabad,2,5,44,10829
+Air India,Chennai,Goa,1,1,34,5600
+Go First,Kolkata,Pune,2,1,41,5958
+SpiceJet,Bangalore,Hyderabad,1,1,16,4813
+Vistara,Delhi,Ahmedabad,2,4,5,10283
+Go First,Mumbai,Pune,0,10,1,10509
+IndiGo,Delhi,Ahmedabad,0,7,41,10045
+Vistara,Chennai,Hyderabad,0,8,53,10815
+Go First,Mumbai,Hyderabad,2,2,36,7716
+Air India,Kolkata,Goa,2,2,30,6659
+SpiceJet,Kolkata,Goa,1,7,10,10528
+Vistara,Bangalore,Hyderabad,2,10,24,12677
+Air India,Bangalore,Hyderabad,0,4,57,5445
+Go First,Bangalore,Goa,2,10,19,15843
+SpiceJet,Mumbai,Hyderabad,0,4,2,6286
+Air India,Bangalore,Ahmedabad,0,1,59,3096
+Air India,Mumbai,Pune,0,1,45,5798
+Vistara,Kolkata,Jaipur,0,1,2,4461
+IndiGo,Delhi,Jaipur,1,5,6,9210
+Go First,Mumbai,Hyderabad,2,10,39,14376
+SpiceJet,Delhi,Goa,0,7,41,8109
+Go First,Mumbai,Pune,1,3,26,8471
+SpiceJet,Bangalore,Pune,1,9,34,12230
+IndiGo,Bangalore,Pune,2,9,15,15456
+SpiceJet,Bangalore,Jaipur,1,10,34,11473
+Vistara,Bangalore,Jaipur,1,9,33,12547
+Go First,Kolkata,Goa,0,8,55,8708
+Go First,Mumbai,Hyderabad,2,3,7,9499
+Air India,Bangalore,Pune,1,9,2,11532
+Go First,Delhi,Goa,2,4,2,9145
+Vistara,Kolkata,Hyderabad,2,4,59,9200
+IndiGo,Bangalore,Goa,0,2,44,5051
+Go First,Mumbai,Goa,0,2,44,3577
+SpiceJet,Mumbai,Goa,1,10,59,14866
+Air India,Kolkata,Ahmedabad,0,8,54,10310
+Vistara,Mumbai,Jaipur,2,6,52,12868
+SpiceJet,Chennai,Pune,1,7,39,11178
+SpiceJet,Delhi,Ahmedabad,2,5,60,9316
+Vistara,Delhi,Hyderabad,1,2,15,4775
+IndiGo,Mumbai,Ahmedabad,0,4,34,6458
+SpiceJet,Delhi,Jaipur,0,8,34,8273
+IndiGo,Chennai,Hyderabad,2,9,33,13219
+Go First,Bangalore,Goa,0,10,53,13192
