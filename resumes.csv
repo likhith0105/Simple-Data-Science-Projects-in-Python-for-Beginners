@@ -1,0 +1,11 @@
+Name,Email,Phone,Skills,Education
+John Smith,johnsmith@gmail.com,+91 9876543210,"Python, SQL, AWS, Machine Learning","B.Tech Computer Science"
+Alice Johnson,alicej@gmail.com,+91 9123456780,"Java, Spring Boot, MySQL, Docker","B.E Information Technology"
+Michael Brown,michaelb@gmail.com,+91 9988776655,"C++, Data Structures, Algorithms, Git","B.Tech Software Engineering"
+Emma Davis,emma.davis@gmail.com,+91 9876501234,"Python, TensorFlow, Deep Learning, Pandas","M.Tech Artificial Intelligence"
+Robert Wilson,robertw@gmail.com,+91 9012345678,"Power BI, Tableau, Excel, SQL","MBA Business Analytics"
+Sophia Taylor,sophia.t@gmail.com,+91 9876123450,"React, JavaScript, HTML, CSS, Node.js","B.Sc Computer Science"
+Daniel Anderson,daniela@gmail.com,+91 9345678901,"Python, Flask, MongoDB, Docker","B.Tech Information Science"
+Olivia Thomas,oliviat@gmail.com,+91 9234567890,"Java, Hibernate, Spring Boot, AWS","MCA"
+William Martin,williamm@gmail.com,+91 9876549876,"Machine Learning, Scikit-learn, Python, SQL","M.Tech Data Science"
+Ava Garcia,avag@gmail.com,+91 9765432109,"Power BI, Excel, Data Visualization","BBA Analytics"
